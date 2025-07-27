@@ -1,11 +1,13 @@
 <h1 align="center">Hey, I'm Zoha Javaid</h1>
 <h3 align="center">Designing, Developing & Debugging My Way Through the Web 🌈 | Clean Code Evangelist</h3>
-
 - 🔭 I’m currently working on **Parkezy**
 
 - 🌱 I’m currently learning **Pytorch, Seaborne,**
 
 - 📫 How to reach me **zohajavaid02@gmail.com**
+
+<h3 href="https://zoha-javaid-8d57bzv.gamma.site/"> __My Portfolio__ </h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
